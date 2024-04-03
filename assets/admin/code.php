@@ -21,7 +21,7 @@ if (isset($_POST['add_client_btn'])) {
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'adnankaka.786110@gmail.com';
-    $mail->Password = 'bgmh szue ekts ijuu';
+    $mail->Password = 'xcvk pfwy wwkf bfbo';
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
 
