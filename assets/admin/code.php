@@ -8,7 +8,7 @@ require 'phpmailer/src/PHPMailer.php';
 require 'phpmailer/src/SMTP.php';
 
 // Get form data
-if (isset($_POST['add_client_btn'])) {
+if (isset($_POST['add_client'])) {
     $mail = new PHPMailer(true);
 
     $name = $_POST['name'];
